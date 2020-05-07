@@ -59,7 +59,8 @@ For PostgreSql
 Once Postgresql12 with PGAdmin has been installed on the users system
 run the backup script docs\PostGreSql\RabbitMQExampleDB which constains the schema
 ```
-
+# database
+Make sure the postgresql connection string is correct and the mongoDB script
 
 For the .NET Projects
 User must right click solution and restore nuget packages for the C# 
